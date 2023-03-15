@@ -1,2 +1,2 @@
-# survival_analysis_workshop
-Survival Analysis with R &amp; #Python by  @statwonk  
+# Survival Analysis with R & Python
+# By  @statwonk  
