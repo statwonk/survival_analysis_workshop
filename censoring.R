@@ -29,7 +29,9 @@ ggplot() +
                 fill = "orange3",
                 color = "black",
                 xlim = c(0, 0.25)) +
-  xlim(0, 4)
+  xlim(0, 4) +
+  ylab("") +
+  theme_minimal()
 
 
 
